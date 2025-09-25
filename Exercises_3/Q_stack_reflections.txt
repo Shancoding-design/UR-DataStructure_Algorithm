@@ -1,0 +1,15 @@
+UR Quizzes Stack
+Quizzes are pushed one by one. Undo removes the last quiz entered.
+- Shows how undo/back works using LIFO (Last-In-First-Out).
+
+Irembo Steps Stack
+Steps are pushed as you move forward in a form. Popping removes steps in reverse until the stack is empty.
+- Explains multi-step navigation and backtracking in forms.
+
+Challenges Stack
+Items are pushed, popped, then updated again (e.g., push 1,2,3 -> pop two -> push 4).
+- Demonstrates dynamic correction, updates, and viewing the current focus (top).
+
+Overall Reflection:
+ -Stacks are powerful for undo/redo, backtracking, navigation, and correcting mistakes because they always remove the most recent action first.
+ 

@@ -1,0 +1,25 @@
+Reflection: Why FIFO Supports Fairness in Government Services
+
+Order of Arrival = Order of Service
+   I- n your RRA example, citizens arrive one by one.
+
+   - FIFO ensures that Citizen1, who came first, is served before Citizen2, and so on.
+
+   - This prevents later arrivals from skipping ahead, which maintains fairness.
+
+Transparency and Trust
+   - At the BK ATM, everyone sees the queue.
+
+   - Knowing that the first to join will be the first to finish builds trust in the system.
+
+   - People don’t need special connections or privileges to be served on time.
+
+Efficiency in Resource Distribution
+   - In your ID distribution demo, using a queue gives IDs in order (ID1 → ID2 → ID3…).
+
+   - This ensures citizens get resources sequentially and equally, without confusion or disputes.
+
+Contrast with Stack (LIFO)
+   - If IDs were distributed with a stack, the last person to join gets served first.
+
+   - This is unfair in public services because it rewards latecomers over those who waited.
